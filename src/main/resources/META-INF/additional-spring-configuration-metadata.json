@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "com.hu.amazon.aws.accessKey",
+      "type": "java.lang.String",
+      "description": "AWS access key."
+    },
+    {
+      "name": "com.hu.amazon.aws.secretKey",
+      "type": "java.lang.String",
+      "description": "AWS secret key."
+    },
+    {
+      "name": "com.hu.amazon.aws.region",
+      "type": "java.lang.String",
+      "description": "AWS region."
+    },
+    {
+      "name": "com.hu.amazon.aws.profileImageBucket",
+      "type": "java.lang.String",
+      "description": "AWS profile image bucket name."
+    }
+  ]
+}
